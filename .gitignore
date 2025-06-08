@@ -1,0 +1,26 @@
+# Ignore Python virtual environments
+.venv/
+env/
+venv/
+
+# Ignore data folder (optional, if you don’t want to track large/raw data)
+#data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Mac Finder settings
+.AppleDouble
+.LSOverride
+
+# Ignore other IDE 
