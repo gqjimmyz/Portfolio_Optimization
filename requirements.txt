@@ -1,4 +1,5 @@
 appnope==0.1.4
+arch==7.2.0
 asttokens==3.0.0
 beautifulsoup4==4.13.4
 certifi==2025.4.26
@@ -30,11 +31,13 @@ numpy==2.3.0
 packaging==25.0
 pandas==2.3.0
 parso==0.8.4
+patsy==1.0.1
 peewee==3.18.1
 pexpect==4.9.0
 pillow==11.2.1
 platformdirs==4.3.8
 plotly==6.1.2
+pob-python @ git+https://github.com/dppalomar/pob.git@e64738212cbb3885e39d28e0ba249bceaa90ddf0#subdirectory=python
 prompt_toolkit==3.0.51
 protobuf==6.31.1
 psutil==7.0.0
@@ -43,6 +46,7 @@ pure_eval==0.2.3
 pycparser==2.22
 Pygments==2.19.1
 pyparsing==3.2.3
+pyreadr==0.5.3
 python-dateutil==2.9.0.post0
 pytz==2025.2
 pyzmq==26.4.0
@@ -52,6 +56,7 @@ seaborn==0.13.2
 six==1.17.0
 soupsieve==2.7
 stack-data==0.6.3
+statsmodels==0.14.4
 tornado==6.5.1
 traitlets==5.14.3
 typing_extensions==4.14.0
